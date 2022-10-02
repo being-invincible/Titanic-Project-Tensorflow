@@ -27,7 +27,5 @@ These are the data available to make the prediction
 3. Ticket
 4. Cabin
 
-![image.png](attachment:609b6570-118d-43f6-b772-371fd2ea9aec.png)
 
-<br>
 We are going to predict whether jack & rose survives the titanic crash!!
